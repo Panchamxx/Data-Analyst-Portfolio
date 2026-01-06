@@ -1,0 +1,48 @@
+/* Insert Clean data  */
+
+INSERT INTO SuperStore_Final (
+    Row_ID,
+    Order_ID,
+    Order_Date,
+    Ship_Date,
+    Ship_Mode,
+    Customer_ID,
+    Customer_Name,
+    Segment,
+    Country,
+    City,
+    State,
+    Postal_Code,
+    Region,
+    Product_ID,
+    Category,
+    Sub_Category,
+    Product_Name,
+    Sales,
+    Quantity,
+    Discount,
+    Profit
+)
+SELECT
+    CAST(Row_ID AS INT),
+    Order_ID,
+    Order_Date,
+    Ship_Date,
+    Ship_Mode,
+    Customer_ID,
+    Customer_Name,
+    Segment,
+    Country,
+    City,
+    State,
+    Postal_Code,
+    Region,
+    Product_ID,
+    Category,
+    Sub_Category,
+    Product_Name,
+    CAST(Sales AS DECIMAL(10,2)),
+    CAST(Quantity AS INT),
+    CAST(Discount AS DECIMAL(5,2)),
+    CAST(Profit AS DECIMAL(10,2))
+FROM SuperStore;
