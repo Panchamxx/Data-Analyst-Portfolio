@@ -45,16 +45,16 @@ PBIX file: Super Store Dashboard.pbix
 Screenshots: See Dashboard folder
 
 **Dashboard features:**  
-Interactive slicers for region
-Key sales, profit, and quantity visualizations
-Monthly and category trends
+Interactive slicers for region  
+Key sales, profit, and quantity visualizations  
+Monthly and category trends  
 
 **Key Insights**  
-Total sales: $2.3M, Total profit: $286k → ~12.5% profit margin.
-Technology drives highest sales and profit; Furniture has high sales but low profit.
-West region leads in sales and profit; South is small but profitable; Central shows margin issues.
-Peak sales in Q4; some months show losses despite sales.
-Top 10 products mostly Technology; some top-sellers have negative profits, highlighting margin challenges.
+Total sales: $2.3M, Total profit: $286k → ~12.5% profit margin.  
+Technology drives highest sales and profit; Furniture has high sales but low profit.  
+West region leads in sales and profit; South is small but profitable; Central shows margin issues.  
+Peak sales in Q4; some months show losses despite sales.  
+Top 10 products mostly Technology; some top-sellers have negative profits, highlighting margin challenges.  
 
 **How to Use**  
 1. Open Sample - Superstore.csv in Excel to explore data cleaning steps:
