@@ -10,29 +10,29 @@ All data cleaning (duplicates, missing values, column standardization) is perfor
 
 **Workflow**  
 1. Excel Data Cleaning  
-Removed blanks and duplicates.  
-Corrected text case (Proper, Upper, Lower) and trimmed extra spaces.  
-Used Flash Fill and Text to Columns for formatting.  
-Applied VLOOKUP for cross-referencing customer and product information.  
-Created Pivot Tables and Pivot Charts for quick analysis and summary insights.  
-Exported cleaned data to CSV for SQL import.  
+      Removed blanks and duplicates.  
+      Corrected text case (Proper, Upper, Lower) and trimmed extra spaces.  
+      Used Flash Fill and Text to Columns for formatting.  
+      Applied VLOOKUP for cross-referencing customer and product information.  
+      Created Pivot Tables and Pivot Charts for quick analysis and summary insights.  
+      Exported cleaned data to CSV for SQL import.  
 
 2. Create and Clean Final Table (SQL)
-Created a clean table (Superstore_Final) in SQL.
-Removed duplicates, standardized column names, and handled missing values.
+      Created a clean table (Superstore_Final) in SQL.
+      Removed duplicates, standardized column names, and handled missing values.
 
 3. Insert Clean Data  
-Loaded cleaned data into the SQL table.
+      Loaded cleaned data into the SQL table.
 
 4. Data Quality Checks  
-Validated row counts, checked for nulls and duplicates.
-Ensured data consistency and integrity before analysis.
+      Validated row counts, checked for nulls and duplicates.
+      Ensured data consistency and integrity before analysis.
 
 5. Analysis Queries  
-Generated insights such as:
-Sales by region
-Top-selling products
-Monthly trends
+      Generated insights such as:
+      Sales by region
+      Top-selling products
+      Monthly trends
 
 **Tools Used**  
 Excel: Data cleaning, VLOOKUP, Pivot Tables, Pivot Charts, and initial exploration.  
