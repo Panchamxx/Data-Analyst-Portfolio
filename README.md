@@ -9,7 +9,7 @@ Imported into Excel and SQL for cleaning and analysis.
 All data cleaning (duplicates, missing values, column standardization) is performed in both Excel and SQL.
 
 **Workflow**  
-1. Excel Data Cleaning
+1. Excel Data Cleaning  
 Removed blanks and duplicates.  
 Corrected text case (Proper, Upper, Lower) and trimmed extra spaces.  
 Used Flash Fill and Text to Columns for formatting.  
