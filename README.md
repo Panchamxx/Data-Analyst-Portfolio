@@ -69,7 +69,7 @@ How to Use
 
 3. Open Super Store Dashboard.pbix in Power BI Desktop to view interactive visualizations.
 
-Notes
+Notes:
 All analysis and dashboards are based on the Kaggle Superstore dataset.
 No sensitive or personal data is included.
 This portfolio demonstrates full workflow from raw data to insights using Excel, SQL, and Power BI.
