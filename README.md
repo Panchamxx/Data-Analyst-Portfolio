@@ -4,9 +4,9 @@
 This project analyzes the Superstore sales dataset to uncover sales trends, top-performing products, and customer insights. It demonstrates an end-to-end data analysis workflow, including data cleaning in Excel and SQL, data validation, SQL queries, and dashboard visualization in Power BI.
 
 **Data**  
-Sample - Superstore.csv: Original Kaggle Superstore dataset.
-Imported into Excel and SQL for cleaning and analysis.
-All data cleaning (duplicates, missing values, column standardization) is performed in both Excel and SQL.
+Sample - Superstore.csv: Original Kaggle Superstore dataset.  
+Imported into Excel and SQL for cleaning and analysis.  
+All data cleaning (duplicates, missing values, column standardization) is performed in both Excel and SQL.  
 
 **Workflow**  
 1. Excel Data Cleaning  
