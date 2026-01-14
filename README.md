@@ -1,14 +1,14 @@
-Superstore Sales Analysis
-Project Overview
+**Superstore Sales Analysis**
+**Project Overview**
 
 This project analyzes the Superstore sales dataset to uncover sales trends, top-performing products, and customer insights. It demonstrates an end-to-end data analysis workflow, including data cleaning in Excel and SQL, data validation, SQL queries, and dashboard visualization in Power BI.
 
-Data
+**Data**
 Sample - Superstore.csv: Original Kaggle Superstore dataset.
 Imported into Excel and SQL for cleaning and analysis.
 All data cleaning (duplicates, missing values, column standardization) is performed in both Excel and SQL.
 
-Workflow
+**Workflow**
 1. Excel Data Cleaning
 Removed blanks and duplicates.
 Corrected text case (Proper, Upper, Lower) and trimmed extra spaces.
@@ -34,29 +34,29 @@ Sales by region
 Top-selling products
 Monthly trends
 
-Tools Used
+**Tools Used**
 Excel: Data cleaning, VLOOKUP, Pivot Tables, Pivot Charts, and initial exploration.
 SQL: Data cleaning, transformation, and analysis queries.
 Power BI: Dashboard creation and visualization.
 
-Dashboard
+**Dashboard**
 PBIX file: Super Store Dashboard.pbix
 
 Screenshots: See Dashboard folder
 
-Dashboard features:
+**Dashboard features:**
 Interactive slicers for region
 Key sales, profit, and quantity visualizations
 Monthly and category trends
 
-Key Insights
+**Key Insights**
 Total sales: $2.3M, Total profit: $286k → ~12.5% profit margin.
 Technology drives highest sales and profit; Furniture has high sales but low profit.
 West region leads in sales and profit; South is small but profitable; Central shows margin issues.
 Peak sales in Q4; some months show losses despite sales.
 Top 10 products mostly Technology; some top-sellers have negative profits, highlighting margin challenges.
 
-How to Use
+**How to Use**
 1. Open Sample - Superstore.csv in Excel to explore data cleaning steps:
    Use VLOOKUP for cross-referencing.
    Create Pivot Tables and Pivot Charts for quick summaries.
@@ -69,7 +69,7 @@ How to Use
 
 3. Open Super Store Dashboard.pbix in Power BI Desktop to view interactive visualizations.
 
-Notes:
-All analysis and dashboards are based on the Kaggle Superstore dataset.
-No sensitive or personal data is included.
-This portfolio demonstrates full workflow from raw data to insights using Excel, SQL, and Power BI.
+**Notes:**
+   All analysis and dashboards are based on the Kaggle Superstore dataset.
+   No sensitive or personal data is included.
+   This portfolio demonstrates full workflow from raw data to insights using Excel, SQL, and Power BI.
