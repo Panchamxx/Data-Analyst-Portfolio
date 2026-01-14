@@ -1,4 +1,5 @@
 /* Insert Clean data  */
+TRUNCATE TABLE SuperStore_Final
 
 INSERT INTO SuperStore_Final (
     Row_ID,
@@ -45,4 +46,5 @@ SELECT
     CAST(Quantity AS INT),
     CAST(Discount AS DECIMAL(5,2)),
     CAST(Profit AS DECIMAL(10,2))
+
 FROM SuperStore;
