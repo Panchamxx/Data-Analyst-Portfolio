@@ -20,7 +20,7 @@ This project analyzes the **Superstore sales dataset** to uncover sales trends, 
 - Used **Flash Fill** and **Text to Columns** for formatting.
 - Applied **VLOOKUP** for cross-referencing customer and product information.
 - Created **Pivot Tables and Pivot Charts** for quick analysis and summary insights.
-- Exported cleaned data to CSV for SQL import.
+- Exported cleaned data to Excel for SQL import.
 
 ### 2. Clean Final Table (SQL)
 - Created a clean table (`Superstore_Final`) in SQL.
