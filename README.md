@@ -35,9 +35,9 @@ Top-selling products
 Monthly trends
 
 **Tools Used**  
-Excel: Data cleaning, VLOOKUP, Pivot Tables, Pivot Charts, and initial exploration.
-SQL: Data cleaning, transformation, and analysis queries.
-Power BI: Dashboard creation and visualization.
+Excel: Data cleaning, VLOOKUP, Pivot Tables, Pivot Charts, and initial exploration.  
+SQL: Data cleaning, transformation, and analysis queries.  
+Power BI: Dashboard creation and visualization.  
 
 **Dashboard**  
 PBIX file: Super Store Dashboard.pbix
