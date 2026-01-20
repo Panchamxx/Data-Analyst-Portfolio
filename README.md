@@ -57,6 +57,8 @@ Dashboard features:
 - Key sales, profit, and quantity visualizations
 - Monthly and category trends
 
+![Overall Dashboard](Dashboard_Screenshots/1_overall_dashboard.png)
+
 ---
 
 ## Key Insights
